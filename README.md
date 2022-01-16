@@ -29,7 +29,7 @@
 
 ### Frontend
 - `cd client`
-- `yarn install`
+- `yarn install` or `npm i`
 - `yarn start`
 - Open `http://localhost:3000`
 
