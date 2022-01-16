@@ -1,7 +1,7 @@
 # Final Project - Multisig Wallet
 
 ## Project Description
-- A multisig wallet which let's one account create transfers and also lets accounts listed on the approvers list able to approve the transfers.
+- A multisig wallet which let's one account create transfers and also lets accounts listed on the approvers list able to approve them.
 
 ## Simple Workflow
 1. Login with Metamask
